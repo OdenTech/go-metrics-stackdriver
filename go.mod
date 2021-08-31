@@ -1,4 +1,4 @@
-module github.com/google/go-metrics-stackdriver
+module github.com/odentech/go-metrics-stackdriver
 
 go 1.12
 
