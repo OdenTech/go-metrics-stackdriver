@@ -18,7 +18,7 @@ import (
 
 	"github.com/armon/go-metrics"
 	"github.com/google/go-cmp/cmp"
-	stackdriver "github.com/google/go-metrics-stackdriver"
+	stackdriver "github.com/odentech/go-metrics-stackdriver"
 )
 
 func TestExtractor(t *testing.T) {
